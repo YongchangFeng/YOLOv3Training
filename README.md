@@ -10,4 +10,4 @@ Train YOLOv3 to detect 8 types of vehicles
 7. USPS
 8. Others (sedan, train, trucks, etc.)
 
-Please see the project report for a overview.
+Please see the project report for an overview.
